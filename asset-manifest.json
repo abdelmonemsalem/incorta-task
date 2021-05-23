@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/abdelmonemsalem/incorta-task.git/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/abdelmonemsalem/incorta-task.git/static/js/main.69e2dd34.chunk.js",
+    "main.js.map": "/abdelmonemsalem/incorta-task.git/static/js/main.69e2dd34.chunk.js.map",
+    "runtime-main.js": "/abdelmonemsalem/incorta-task.git/static/js/runtime-main.d3359fdd.js",
+    "runtime-main.js.map": "/abdelmonemsalem/incorta-task.git/static/js/runtime-main.d3359fdd.js.map",
+    "static/js/2.d2d89d9c.chunk.js": "/abdelmonemsalem/incorta-task.git/static/js/2.d2d89d9c.chunk.js",
+    "static/js/2.d2d89d9c.chunk.js.map": "/abdelmonemsalem/incorta-task.git/static/js/2.d2d89d9c.chunk.js.map",
+    "static/js/3.e11f6975.chunk.js": "/abdelmonemsalem/incorta-task.git/static/js/3.e11f6975.chunk.js",
+    "static/js/3.e11f6975.chunk.js.map": "/abdelmonemsalem/incorta-task.git/static/js/3.e11f6975.chunk.js.map",
+    "index.html": "/abdelmonemsalem/incorta-task.git/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/abdelmonemsalem/incorta-task.git/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d2d89d9c.chunk.js.LICENSE.txt": "/abdelmonemsalem/incorta-task.git/static/js/2.d2d89d9c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3359fdd.js",
+    "static/js/2.d2d89d9c.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.69e2dd34.chunk.js"
+  ]
+}
