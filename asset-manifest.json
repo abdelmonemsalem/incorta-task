@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/incorta-task/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/incorta-task/static/js/main.69e2dd34.chunk.js",
-    "main.js.map": "/incorta-task/static/js/main.69e2dd34.chunk.js.map",
-    "runtime-main.js": "/incorta-task/static/js/runtime-main.e1aa9947.js",
-    "runtime-main.js.map": "/incorta-task/static/js/runtime-main.e1aa9947.js.map",
-    "static/js/2.d2d89d9c.chunk.js": "/incorta-task/static/js/2.d2d89d9c.chunk.js",
-    "static/js/2.d2d89d9c.chunk.js.map": "/incorta-task/static/js/2.d2d89d9c.chunk.js.map",
-    "static/js/3.e11f6975.chunk.js": "/incorta-task/static/js/3.e11f6975.chunk.js",
-    "static/js/3.e11f6975.chunk.js.map": "/incorta-task/static/js/3.e11f6975.chunk.js.map",
+    "main.css": "/incorta-task/static/css/main.190a371f.chunk.css",
+    "main.js": "/incorta-task/static/js/main.64181db7.chunk.js",
+    "main.js.map": "/incorta-task/static/js/main.64181db7.chunk.js.map",
+    "runtime-main.js": "/incorta-task/static/js/runtime-main.def80a4f.js",
+    "runtime-main.js.map": "/incorta-task/static/js/runtime-main.def80a4f.js.map",
+    "static/css/2.0978f8b3.chunk.css": "/incorta-task/static/css/2.0978f8b3.chunk.css",
+    "static/js/2.6d3a99e8.chunk.js": "/incorta-task/static/js/2.6d3a99e8.chunk.js",
+    "static/js/2.6d3a99e8.chunk.js.map": "/incorta-task/static/js/2.6d3a99e8.chunk.js.map",
+    "static/js/3.482bd861.chunk.js": "/incorta-task/static/js/3.482bd861.chunk.js",
+    "static/js/3.482bd861.chunk.js.map": "/incorta-task/static/js/3.482bd861.chunk.js.map",
     "index.html": "/incorta-task/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/incorta-task/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.d2d89d9c.chunk.js.LICENSE.txt": "/incorta-task/static/js/2.d2d89d9c.chunk.js.LICENSE.txt"
+    "static/css/2.0978f8b3.chunk.css.map": "/incorta-task/static/css/2.0978f8b3.chunk.css.map",
+    "static/css/main.190a371f.chunk.css.map": "/incorta-task/static/css/main.190a371f.chunk.css.map",
+    "static/js/2.6d3a99e8.chunk.js.LICENSE.txt": "/incorta-task/static/js/2.6d3a99e8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e1aa9947.js",
-    "static/js/2.d2d89d9c.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.69e2dd34.chunk.js"
+    "static/js/runtime-main.def80a4f.js",
+    "static/css/2.0978f8b3.chunk.css",
+    "static/js/2.6d3a99e8.chunk.js",
+    "static/css/main.190a371f.chunk.css",
+    "static/js/main.64181db7.chunk.js"
   ]
 }
